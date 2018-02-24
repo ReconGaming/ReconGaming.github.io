@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "recongaminghomepage.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 58,
+    "uniqCompNum": 65,
     "versionPublish": "4.6.5",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,7 @@
     "vipadmin.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Recong Gaming",
+        "title": "Recon Gaming",
         "order": 2
       },
       "components": [
@@ -1758,7 +1758,7 @@
       "settings": {
         "main": true,
         "title": "Recon Gaming",
-        "meta_descr": "Recin Gaming Website",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
