@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "VipAdmin.html",
+    "currentPage": "recongaminghomepage.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 58,
     "versionPublish": "4.6.5",
@@ -38,7 +38,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "VipAdmin.html": {
+    "vipadmin.html": {
       "settings": {
         "meta_descr": "",
         "title": "Recong Gaming",
@@ -1754,7 +1754,7 @@
         }
       ]
     },
-    "ReconGaming.html": {
+    "recongaminghomepage.html": {
       "settings": {
         "main": true,
         "title": "Recon Gaming",
