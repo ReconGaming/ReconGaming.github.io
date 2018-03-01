@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": ".html",
+    "currentPage": "ourservers.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 85,
     "versionPublish": "4.6.5",
@@ -5380,7 +5380,7 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Recon Gaming | Home",
