@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": ".html",
+    "name": "Recon Gaming",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 85,
     "versionPublish": "4.6.5",
@@ -35,7 +35,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/50x50-50x50-1.png",
+    "noImageResize": "true"
   },
   "pages": {
     "vipadmin.html": {
@@ -5380,10 +5382,10 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "Recon Gaming | Home",
+        "title": "ReconGaming | Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
