@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "homepage.html",
+    "currentPage": "ourservers.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 85,
     "versionPublish": "4.6.5",
@@ -3685,7 +3685,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black\" href=\"http://steamcommunity.com/groups/ReconGamingSteamGroup\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/edfb4bc7384138016c8cf20765da1223-658x427.png",
+                "image": "@PROJECT_PATH@/assets/images/567b139d93420c91f6aaf3598b51d747-1301x681.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
