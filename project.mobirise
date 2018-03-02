@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Recon Gaming",
-    "currentPage": ".html",
+    "currentPage": "page.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 92,
+    "uniqCompNum": 100,
     "versionPublish": "4.6.5",
     "theme": {
       "name": "mobirise4",
@@ -40,10 +40,10 @@
     "noImageResize": "true"
   },
   "pages": {
-    ".html": {
+    "page.html": {
       "settings": {
         "main": true,
-        "title": "ReconGaming | Home",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
