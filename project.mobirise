@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Recon Gaming",
-    "currentPage": "page.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 100,
     "versionPublish": "4.6.5",
@@ -36,11 +36,11 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/50x50-50x50-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/342234234234.png",
     "noImageResize": "true"
   },
   "pages": {
-    "page.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
