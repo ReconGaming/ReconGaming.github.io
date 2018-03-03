@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Recon Gaming Website-clone",
-    "currentPage": "home.html",
+    "currentPage": "vipadmin.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "Home | Recon Gaming",
+        "title": "ReconGaming | Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -669,7 +669,7 @@
     "vipadmin.html": {
       "settings": {
         "meta_descr": "",
-        "title": "VipAdmin | Recon Gaming",
+        "title": "ReconGaming | Vipadmin",
         "order": 2
       },
       "components": [
@@ -1173,7 +1173,7 @@
     "donator.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "Donator | Recon Gaming",
+        "title": "ReconGaming | Donator",
         "order": 1
       },
       "components": [
